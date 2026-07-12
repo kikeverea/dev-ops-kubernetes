@@ -1,0 +1,1 @@
+Run with `kubectl create deployment <dep-name> --image=kikeverea/log-output`
