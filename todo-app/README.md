@@ -1,1 +1,1 @@
-Run with `kubectl create deployment <dep-name> --image=kikeverea/todo-app`
+Run with `kubectl apply -f manifests/deployment.yml `
