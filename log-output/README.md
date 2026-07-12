@@ -1,1 +1,1 @@
-Run with `kubectl create deployment <dep-name> --image=kikeverea/log-output`
+Run with `kubectl apply -f manifests/deployment.yml `
