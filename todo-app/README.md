@@ -1,1 +1,1 @@
-Run with `kubectl apply -f manifests/deployment.yml `
+Run with `kubectl apply -f manifests/deployment.yml`
